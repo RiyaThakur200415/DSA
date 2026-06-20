@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RiyaThakur200415/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/RiyaThakur200415/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RiyaThakur200415/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RiyaThakur200415/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/RiyaThakur200415/DSA/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RiyaThakur200415/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/RiyaThakur200415/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RiyaThakur200415/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RiyaThakur200415/DSA/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RiyaThakur200415/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RiyaThakur200415/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/RiyaThakur200415/DSA/tree/master/0904-fruit-into-baskets) |
