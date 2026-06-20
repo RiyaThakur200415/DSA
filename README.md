@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RiyaThakur200415/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RiyaThakur200415/DSA/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/RiyaThakur200415/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/RiyaThakur200415/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RiyaThakur200415/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0485-max-consecutive-ones](https://github.com/RiyaThakur200415/DSA/tree/master/0485-max-consecutive-ones) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RiyaThakur200415/DSA/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/RiyaThakur200415/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RiyaThakur200415/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RiyaThakur200415/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/RiyaThakur200415/DSA/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/RiyaThakur200415/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/RiyaThakur200415/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
