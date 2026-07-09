@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RiyaThakur200415/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/RiyaThakur200415/DSA/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/RiyaThakur200415/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RiyaThakur200415/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RiyaThakur200415/DSA/tree/master/0238-product-of-array-except-self) |
@@ -91,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RiyaThakur200415/DSA/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RiyaThakur200415/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RiyaThakur200415/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/RiyaThakur200415/DSA/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiyaThakur200415/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
@@ -148,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RiyaThakur200415/DSA/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/RiyaThakur200415/DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiyaThakur200415/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RiyaThakur200415/DSA/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/RiyaThakur200415/DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RiyaThakur200415/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
