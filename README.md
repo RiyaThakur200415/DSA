@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RiyaThakur200415/DSA/tree/master/0002-add-two-numbers) |
+| [0507-perfect-number](https://github.com/RiyaThakur200415/DSA/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0523-continuous-subarray-sum) |
 ## Matrix
 |  |
