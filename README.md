@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/RiyaThakur200415/DSA/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/RiyaThakur200415/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/RiyaThakur200415/DSA/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RiyaThakur200415/DSA/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RiyaThakur200415/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -205,8 +208,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/RiyaThakur200415/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/RiyaThakur200415/DSA/tree/master/0796-rotate-string) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
