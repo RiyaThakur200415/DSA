@@ -2,27 +2,26 @@ class Solution
 {
     public int maxProduct(int[] nums) 
     {
-        int pre = 1;
-        int suf = 1;
-        int max = Integer.MIN_VALUE;
-        int n = nums.length;
+        int preProduct = 1;
+        int sufProduct = 1;
 
-        for(int i = 0 ; i < n ; i++)
+        int l = 0;
+        int r = nums.length - 1;
+        int max = Integer.MIN_VALUE;
+        for(int i = 0 ; i < nums.length ; i++)
         {
-            if(pre == 0)
+            if(preProduct == 0)
             {
-                pre = 1;
+                preProduct = 1;
             }
-            if(suf == 0)
+            if(sufProduct == 0)
             {
-                suf = 1;
-          
+                sufProduct = 1;
             }
-            pre = pre * nums[i];
-            suf = suf * nums[n - 1 - i];
-            max = Math.max(max , Math.max(pre , suf));
+            preProduct *= nums[i];
+            sufProduct *= nums[nums.length - 1 - i];
+            max = Math.max(max , Math.max(preProduct , sufProduct));
         }
         return max;
-        
     }
 }
