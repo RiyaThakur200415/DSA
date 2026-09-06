@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RiyaThakur200415/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RiyaThakur200415/DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/RiyaThakur200415/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RiyaThakur200415/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RiyaThakur200415/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/RiyaThakur200415/DSA/tree/master/0118-pascals-triangle) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RiyaThakur200415/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RiyaThakur200415/DSA/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/RiyaThakur200415/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RiyaThakur200415/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RiyaThakur200415/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RiyaThakur200415/DSA/tree/master/0217-contains-duplicate) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RiyaThakur200415/DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RiyaThakur200415/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/RiyaThakur200415/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
