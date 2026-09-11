@@ -2,15 +2,32 @@ class Solution
 {
     public String largestOddNumber(String num) 
     {
-        int n = num.length();
-        int max = 0;
-        for(int i = n - 1 ; i >= 0 ; i--)
+        StringBuilder ans = new StringBuilder();
+        int i = num.length() - 1;
+        int idx = Integer.MIN_VALUE;
+        while(i >= 0)
         {
-            if((num.charAt(i) - '0') % 2 != 0)
+            char ch = num.charAt(i);
+            long val = (long)ch;
+            if(val % 2 != 0)
             {
-                return num.substring(0, i + 1);
+                idx = i;
+                break;
+            }
+            else
+            {
+                i--;
             }
         }
-        return "";
+        
+        if(idx == Integer.MIN_VALUE)
+        {
+            return "";
+        }
+        else
+        {
+            ans.append(num , 0 , idx + 1);
+            return ans.toString();
+        }
     }
 }
