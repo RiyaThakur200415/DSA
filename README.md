@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiyaThakur200415/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/RiyaThakur200415/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/RiyaThakur200415/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RiyaThakur200415/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/RiyaThakur200415/DSA/tree/master/0205-isomorphic-strings) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RiyaThakur200415/DSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/RiyaThakur200415/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/RiyaThakur200415/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RiyaThakur200415/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/RiyaThakur200415/DSA/tree/master/0507-perfect-number) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RiyaThakur200415/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/RiyaThakur200415/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RiyaThakur200415/DSA/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/RiyaThakur200415/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/RiyaThakur200415/DSA/tree/master/0125-valid-palindrome) |
