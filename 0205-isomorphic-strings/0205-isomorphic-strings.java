@@ -2,24 +2,40 @@ class Solution
 {
     public boolean isIsomorphic(String s, String t) 
     {
-        int[] st = new int[256];
-        int[] ts = new int[256];
-
-        for(int i = 0; i < s.length(); i++)
+        //Base Case
+        if(s.length() != t.length())
         {
-            char a = s.charAt(i);
-            char b = t.charAt(i);
-
-            if(st[a] != 0 && st[a] != b)
-                return false;
-
-            if(ts[b] != 0 && ts[b] != a)
-                return false;
-
-            st[a] = b;
-            ts[b] = a;
+            return false;
         }
 
-        return true;
+        HashMap<Character , Character> hm = new HashMap<>();
+        
+        for(int i = 0 ; i < s.length() ; i++)
+        {
+            char schar = s.charAt(i);
+            char tchar = t.charAt(i);
+
+            if(!hm.containsKey(schar))
+            {
+                if(!hm.containsValue(tchar))
+                {
+                    hm.put(schar , tchar);
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else
+            {
+                char val = hm.get(schar);
+                if(val != tchar)
+                {
+                    return false;
+                }
+
+            }
+        } 
+        return true; 
     }
 }
