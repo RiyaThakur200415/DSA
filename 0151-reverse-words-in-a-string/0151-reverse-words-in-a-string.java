@@ -2,19 +2,35 @@ class Solution
 {
     public String reverseWords(String s) 
     {
-        String arr[] = s.trim().split("\\s+");
-        
-        int l = 0;
-        int r = arr.length - 1;
-        while(l < r)
+        StringBuilder ans = new StringBuilder();
+        int i = s.length() - 1;
+
+        while(i >= 0)
         {
-            String temp = arr[l];
-            arr[l] = arr[r];
-            arr[r] = temp;
-            l++;
-            r--;
+            //Skip the empty spaces
+            while(i >= 0 && s.charAt(i) == ' ')
+            {
+                i--;
+            }
+
+            if(i < 0)
+            {
+                break;
+            }
+
+            int end = i;
+
+            while(i >= 0 && s.charAt(i) != ' ')
+            {
+                i--;
+            }
+
+            if(ans.length() > 0)
+            {
+                ans.append(' ');
+            }
+            ans.append(s , i + 1 , end + 1);
         }
-        String str = String.join(" " , arr);
-        return str;
+        return ans.toString();
     }
 }
