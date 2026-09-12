@@ -4,16 +4,17 @@ class Solution
     {
         long ans = 0;
         int i = 0;
+        int sign = 1;
         int n = s.length();
-        //Skip the front spaces
+        //Skip the extra front spaces
         while(i < n && s.charAt(i) == ' ')
         {
             i++;
         }
 
-        int sign = 1;
+        // Finding the sign at the front
 
-        if(i < n && (s.charAt(i) == '+' || s.charAt(i) == '-'))
+        if(i < n && (s.charAt(i) == '-' || s.charAt(i) == '+'))
         {
             if(s.charAt(i) == '-')
             {
@@ -22,11 +23,14 @@ class Solution
             i++;
         }
 
+        // Next
+
         while(i < n && Character.isDigit(s.charAt(i)))
         {
             int digit = s.charAt(i) - '0';
             ans = ans * 10 + digit;
 
+            //Checking overflow
             if(sign * ans > Integer.MAX_VALUE)
             {
                 return Integer.MAX_VALUE;
