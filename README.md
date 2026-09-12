@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RiyaThakur200415/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/RiyaThakur200415/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RiyaThakur200415/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaThakur200415/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RiyaThakur200415/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/RiyaThakur200415/DSA/tree/master/0904-fruit-into-baskets) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RiyaThakur200415/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RiyaThakur200415/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RiyaThakur200415/DSA/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaThakur200415/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RiyaThakur200415/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RiyaThakur200415/DSA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/RiyaThakur200415/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaThakur200415/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Design
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/RiyaThakur200415/DSA/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/RiyaThakur200415/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/RiyaThakur200415/DSA/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaThakur200415/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/RiyaThakur200415/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RiyaThakur200415/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaThakur200415/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -307,4 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RiyaThakur200415/DSA/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaThakur200415/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaThakur200415/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
