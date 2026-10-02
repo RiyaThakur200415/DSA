@@ -3,22 +3,21 @@ class Solution
     public int lengthOfLongestSubstring(String s) 
     {
         HashMap<Character , Integer> hm = new HashMap<>();
-
-        int idx = 0;
+        int left = 0;
         int cnt = 0;
 
-        for(int i = 0 ; i < s.length() ; i++)
+        for(int right = 0 ; right < s.length() ; right++)
         {
-            char ch = s.charAt(i);
+            char ch = s.charAt(right);
 
             if(hm.containsKey(ch))
             {
-                idx = Math.max(idx , hm.get(ch) + 1);
+                left = Math.max(left , hm.get(ch) + 1);
             }
+            
+            hm.put(ch , right);
 
-            hm.put(ch , i);
-
-            cnt = Math.max(cnt , i - idx + 1);
+            cnt = Math.max(cnt , right - left + 1);
         }
         return cnt;
     }
