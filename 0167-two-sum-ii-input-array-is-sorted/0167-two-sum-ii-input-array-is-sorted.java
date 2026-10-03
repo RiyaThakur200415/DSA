@@ -1,30 +1,30 @@
 class Solution 
 {
-    public int[] twoSum(int[] numbers, int target) 
+    public int[] twoSum(int[] nums, int target) 
     {
-        int idx1 = 0;
-        int idx2 = 0;
-        HashMap<Integer , Integer> hm = new HashMap<>();
+        int l = 0; 
+        int r = nums.length - 1;
+        int res[] = new int[2];
 
-        for(int i = 0 ; i < numbers.length ; i++)
+        while(l < r)
         {
-            hm.put(numbers[i] , i + 1 );
-        }
+            int sum = nums[l] + nums[r];
 
-        for(int i = 0 ; i < numbers.length ; i++)
-        {
-            int comp = target - numbers[i];
-
-            if(hm.containsKey(comp))
+            if(sum == target)
             {
-                idx2 = hm.get(comp);
-                if (idx2 != i + 1) {
-                return new int[]{i + 1, idx2};
-                }
+                res[0] = l + 1;
+                res[1] = r + 1;
+                break;
+            }
+            else if(sum < target)
+            {
+                l++;
+            }
+            else
+            {
+                r--;
             }
         }
-
-        return new int[]{};
-        
+        return res;
     }
 }
