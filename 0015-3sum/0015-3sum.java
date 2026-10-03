@@ -1,50 +1,62 @@
-class Solution {
-    public List<List<Integer>> threeSum(int[] nums) 
+class Solution 
+{
+    public List<List<Integer>> threeSum(int[] arr) 
     {
         List<List<Integer>> res = new ArrayList<>();
-      
-      
-        Arrays.sort(nums);
-         
-        
-        int n = nums.length;
-        for(int i = 0 ; i < nums.length - 2 ; i++)
+
+        Arrays.sort(arr);
+
+        for(int i = 0; i < arr.length - 2; i++)
         {
-            if(i > 0 && nums[i] == nums[i-1])
+            // Skip duplicate first elements
+            if(i > 0 && arr[i] == arr[i - 1])
             {
                 continue;
             }
-            int j = i + 1;
-            int k = n - 1;
-            while(j < k)
+
+            int l = i + 1;
+            int r = arr.length - 1;
+
+            while(l < r)
             {
-                if((nums[i] + nums[j] + nums[k]) == 0)
-                {
-                    res.add(Arrays.asList(nums[i] , nums[j] , nums[k]));
+                int sum = arr[i] + arr[l] + arr[r];
 
-                    while(j < k && nums[j] == nums[j+1])
+                if(sum == 0)
+                {
+                    List<Integer> lis = new ArrayList<>();
+
+                    lis.add(arr[i]);
+                    lis.add(arr[l]);
+                    lis.add(arr[r]);
+
+                    res.add(lis);
+
+                    // Skip duplicate left values
+                    while(l < r && arr[l] == arr[l + 1])
                     {
-                        j++;
+                        l++;
                     }
-                    while(j < k && nums[k] == nums[k-1])
+
+                    // Skip duplicate right values
+                    while(l < r && arr[r] == arr[r - 1])
                     {
-                        k--;
+                        r--;
                     }
-                    j++;
-                    k--;
+
+                    l++;
+                    r--;
                 }
-
-                else if((nums[i] + nums[j] + nums[k]) < 0)
+                else if(sum < 0)
                 {
-                    j++;
+                    l++;
                 }
                 else
                 {
-                    k--;
+                    r--;
                 }
             }
         }
+
         return res;
-        
     }
 }
