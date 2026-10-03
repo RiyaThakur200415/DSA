@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/RiyaThakur200415/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/RiyaThakur200415/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RiyaThakur200415/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiyaThakur200415/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RiyaThakur200415/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RiyaThakur200415/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RiyaThakur200415/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/RiyaThakur200415/DSA/tree/master/0443-string-compression) |
+| [0977-squares-of-a-sorted-array](https://github.com/RiyaThakur200415/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RiyaThakur200415/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RiyaThakur200415/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RiyaThakur200415/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaThakur200415/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/RiyaThakur200415/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
