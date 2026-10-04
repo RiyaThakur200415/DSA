@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RiyaThakur200415/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RiyaThakur200415/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/RiyaThakur200415/DSA/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/RiyaThakur200415/DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/RiyaThakur200415/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RiyaThakur200415/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RiyaThakur200415/DSA/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/RiyaThakur200415/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/RiyaThakur200415/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaThakur200415/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/RiyaThakur200415/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaThakur200415/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/RiyaThakur200415/DSA/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/RiyaThakur200415/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/RiyaThakur200415/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/RiyaThakur200415/DSA/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaThakur200415/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RiyaThakur200415/DSA/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/RiyaThakur200415/DSA/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RiyaThakur200415/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
 |  |
