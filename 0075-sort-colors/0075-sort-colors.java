@@ -2,6 +2,7 @@ class Solution
 {
     public void sortColors(int[] nums) 
     {
+
         int low = 0;
         int mid = 0;
         int high = nums.length - 1;
@@ -10,12 +11,14 @@ class Solution
         {
             if(nums[mid] == 0)
             {
-                int temp = nums[mid];
-                nums[mid] = nums[low];
-                nums[low] = temp;
-                low++;
+                int temp = nums[low];
+                nums[low] = nums[mid];
+                nums[mid] = temp;
+
                 mid++;
+                low++;
             }
+
             else if(nums[mid] == 1)
             {
                 mid++;
@@ -25,10 +28,10 @@ class Solution
                 int temp = nums[mid];
                 nums[mid] = nums[high];
                 nums[high] = temp;
-                high--;
 
+                high--;
             }
         }
-        System.out.println(Arrays.toString(nums));
+        
     }
 }
