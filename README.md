@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/RiyaThakur200415/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RiyaThakur200415/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiyaThakur200415/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RiyaThakur200415/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RiyaThakur200415/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RiyaThakur200415/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/RiyaThakur200415/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RiyaThakur200415/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RiyaThakur200415/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RiyaThakur200415/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RiyaThakur200415/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/RiyaThakur200415/DSA/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiyaThakur200415/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RiyaThakur200415/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RiyaThakur200415/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/RiyaThakur200415/DSA/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0523-continuous-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RiyaThakur200415/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/RiyaThakur200415/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RiyaThakur200415/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/RiyaThakur200415/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RiyaThakur200415/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
