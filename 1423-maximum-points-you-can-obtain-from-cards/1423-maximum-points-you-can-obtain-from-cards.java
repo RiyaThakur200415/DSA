@@ -2,33 +2,30 @@ class Solution
 {
     public int maxScore(int[] arr, int k) 
     {
-        int n = arr.length;
-        int windowSize = n - k;
+        int lsum = 0;
+        int rsum = 0;
+        int res = 0;
 
-        int total = 0;
-
-        for(int num : arr)
+        for(int i = 0 ; i < k ; i++)
         {
-            total += num;
+            lsum += arr[i];
         }
+        res = lsum;
 
-        int windowSum = 0;
+        int l = k - 1;
+        int r = arr.length - 1;
 
-        for(int i = 0; i < windowSize; i++)
+        for(int i = 0 ; i < k ; i++)
         {
-            windowSum += arr[i];
+            lsum -= arr[l];
+            l--;
+            rsum += arr[r];
+            r--;
+
+            int sum = lsum + rsum;
+
+            res = Math.max(res , sum);
         }
-
-        int minWindow = windowSum;
-
-        for(int i = windowSize; i < n; i++)
-        {
-            windowSum += arr[i];
-            windowSum -= arr[i - windowSize];
-
-            minWindow = Math.min(minWindow, windowSum);
-        }
-
-        return total - minWindow;
+        return res;
     }
 }
