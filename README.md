@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RiyaThakur200415/DSA/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/RiyaThakur200415/DSA/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/RiyaThakur200415/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/RiyaThakur200415/DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/RiyaThakur200415/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RiyaThakur200415/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaThakur200415/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/RiyaThakur200415/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/RiyaThakur200415/DSA/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RiyaThakur200415/DSA/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/RiyaThakur200415/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/RiyaThakur200415/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/RiyaThakur200415/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaThakur200415/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/RiyaThakur200415/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/RiyaThakur200415/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaThakur200415/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/RiyaThakur200415/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/RiyaThakur200415/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/RiyaThakur200415/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/RiyaThakur200415/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/RiyaThakur200415/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RiyaThakur200415/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaThakur200415/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
