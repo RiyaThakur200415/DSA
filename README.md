@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/RiyaThakur200415/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RiyaThakur200415/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RiyaThakur200415/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RiyaThakur200415/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/RiyaThakur200415/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/RiyaThakur200415/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RiyaThakur200415/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/RiyaThakur200415/DSA/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/RiyaThakur200415/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/RiyaThakur200415/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RiyaThakur200415/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Dynamic Programming
 |  |
 | ------- |
