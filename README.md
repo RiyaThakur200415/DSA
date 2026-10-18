@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RiyaThakur200415/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/RiyaThakur200415/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/RiyaThakur200415/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0435-non-overlapping-intervals](https://github.com/RiyaThakur200415/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RiyaThakur200415/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/RiyaThakur200415/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RiyaThakur200415/DSA/tree/master/0485-max-consecutive-ones) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RiyaThakur200415/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RiyaThakur200415/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RiyaThakur200415/DSA/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/RiyaThakur200415/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaThakur200415/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RiyaThakur200415/DSA/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RiyaThakur200415/DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/RiyaThakur200415/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RiyaThakur200415/DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/RiyaThakur200415/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RiyaThakur200415/DSA/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/RiyaThakur200415/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RiyaThakur200415/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RiyaThakur200415/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/RiyaThakur200415/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/RiyaThakur200415/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/RiyaThakur200415/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/RiyaThakur200415/DSA/tree/master/1143-longest-common-subsequence) |
