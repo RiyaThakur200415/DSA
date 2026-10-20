@@ -4,25 +4,29 @@ class Solution
     {
         int low = 0;
         int high = nums.length - 1;
-        
+        int ans = nums.length;
+
+        if(low > high)
+        {
+            return -1;
+        }
+
         while(low <= high)
         {
-            int mid = low + (high - low) / 2;
+            int mid = low + ( high - low) / 2;
 
-            if(nums[mid] < target)
+            if(nums[mid] >= target)
+            {
+                ans = mid;
+                high = mid - 1;
+            }
+            else
             {
                 low = mid + 1;
             }
-            else if(nums[mid] > target)
-            {
-                high = mid - 1;
-            }
-            else 
-            {
-                return mid;
-            }
         }
-      
-        return low;
+
+        return ans;
+        
     }
 }
