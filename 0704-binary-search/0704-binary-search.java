@@ -5,23 +5,31 @@ class Solution
         int low = 0;
         int high = nums.length - 1;
 
+        //Base Case
+        if(low > high)
+        {
+            return -1;
+        }
+
         while(low <= high)
         {
             int mid = low + (high - low) / 2;
-            
-            if(nums[mid] < target)
+
+            if(nums[mid] == target)
             {
-                low = mid + 1;
+                return mid;
             }
+
             else if(nums[mid] > target)
             {
                 high = mid - 1;
             }
             else
             {
-                return mid;
+                low = mid + 1;
             }
         }
+        
         return -1;
     }
 }
