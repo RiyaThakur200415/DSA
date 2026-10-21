@@ -4,20 +4,20 @@ class Solution
     {
         int low = 0;
         int high = nums.length - 1;
+        
 
         while(low <= high)
         {
-            int mid = low + (high - low) / 2;
+            int mid = low +(high - low) / 2;
 
             if(nums[mid] == target)
             {
                 return mid;
             }
-          
-            //If left half is sorted
-            if(nums[low] <= nums[mid])
+
+            if(nums[low] <= nums[mid])   //Left Half is sorted
             {
-                if(target >= nums[low] && target < nums[mid])
+                if(nums[low] <= target && target < nums[mid])
                 {
                     high = mid - 1;
                 }
@@ -27,20 +27,19 @@ class Solution
                 }
             }
 
-            //It right half is sorted
-            else
+            else                           //Right Half
             {
                 if(nums[mid] < target && target <= nums[high])
                 {
                     low = mid + 1;
-                }
+                } 
                 else
                 {
                     high = mid - 1;
                 }
+
             }
         }
         return -1;
-        
     }
 }
