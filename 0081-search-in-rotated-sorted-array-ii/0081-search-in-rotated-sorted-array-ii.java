@@ -5,6 +5,7 @@ class Solution
         int low = 0;
         int high = nums.length - 1;
 
+
         while(low <= high)
         {
             int mid = low + (high - low) / 2;
@@ -16,12 +17,11 @@ class Solution
 
             if(nums[low] == nums[mid] && nums[mid] == nums[high])
             {
-                low = low + 1;
-                high = high - 1;
+                low++;
+                high--;
                 continue;
             }
 
-            //If left part is sorted
             if(nums[low] <= nums[mid])
             {
                 if(nums[low] <= target && target < nums[mid])
@@ -33,17 +33,15 @@ class Solution
                     low = mid + 1;
                 }
             }
-            
-            //For right part
             else
             {
                 if(nums[mid] < target && target <= nums[high])
                 {
                     low = mid + 1;
                 }
-                else 
+                else
                 {
-                    high = high - 1;
+                    high = mid - 1;
                 }
             }
         }
