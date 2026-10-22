@@ -2,26 +2,25 @@ class Solution
 {
     public int maxArea(int[] height) 
     {
-
-        int max = 0;
-
         int l = 0;
-        int r = height.length - 1;
+        int h = height.length - 1;
 
-        while(l < r)
+        int water = 0;
+
+        while(l < h)
         {
-            int prod = Math.min(height[l] , height[r]) * (r - l);
+            int sum = Math.min(height[l] , height[h]) * (h - l);
 
-            if(height[l] <= height[r])
+            if(height[l] <= height[h])
             {
                 l++;
             }
             else
             {
-                r--;
+                h--;
             }
-            max = Math.max(max , prod);
+            water = Math.max(water , sum);
         }
-        return max;
+        return water;
     }
 }
