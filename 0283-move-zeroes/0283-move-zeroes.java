@@ -2,35 +2,19 @@ class Solution
 {
     public void moveZeroes(int[] nums) 
     {
-        int n = nums.length;
-        int res[] = new int[n];
-        int cnt = 0;
-        for(int i = 0 ; i < n ; i++)
-        {
-            if(nums[i] == 0)
-            {
-                cnt++;
-            }
-        }
-        int k =0;
-        for(int i = 0 ; i < n ; i++)
-        {
-            if(nums[i] != 0)
-            {
-                res[k] = nums[i];
-                k++;
-            }
-        }
+        int l = 0;
+        int r = 0;
 
-        for(int i = 0 ; i < cnt ; i++)
+        while(r < nums.length)
         {
-            res[k++] = 0;
+            if(nums[r] != 0)
+            {
+                int temp = nums[r];
+                nums[r] = nums[l];
+                nums[l] = temp;
+                l++;
+            }
+            r++;
         }
-        
-        for(int i = 0 ; i < n ; i++)
-        {
-            nums[i] = res[i];
-        }
-        System.out.println(Arrays.toString(nums));
     }
 }
