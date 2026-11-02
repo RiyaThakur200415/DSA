@@ -12,41 +12,71 @@ class Solution
 {
     public ListNode sortList(ListNode head) 
     {
-        // Calculating the size of the LL
-        int size = 0;
-        ListNode temp = head;
-
-        while(temp != null)
+        //Base Case
+        if(head == null || head.next == null)
         {
-            size++;
-            temp = temp.next;
+            return head;
         }
+
+        ListNode middle = findMid(head);
+        ListNode leftHead = head;
+        ListNode rightHead = middle.next;
+        middle.next = null;
+
+        leftHead = sortList(leftHead);
+        rightHead = sortList(rightHead);
+
+        return merge(leftHead , rightHead);
+    }
+
+    static ListNode findMid(ListNode head)
+    {
+        ListNode slow = head;
+        ListNode fast = head.next;
+
+        while(fast != null && fast.next != null)
+        {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+
+    static ListNode merge(ListNode lis1 , ListNode lis2)
+    {
+        ListNode temp1 = lis1;
+        ListNode temp2 = lis2;
+        ListNode dummy = new ListNode(0);
+        ListNode temp = dummy;
         
-        //Creation and inserting the values in a array 
-        
-        temp = head;
-        int arr[] = new int[size];
-        for(int i = 0 ; i < size ; i++)
+        while(temp1 != null && temp2 != null)
         {
-            arr[i] = temp.val;
+            if(temp1.val <= temp2.val)
+            {
+                temp.next = temp1;
+                temp1 = temp1.next;
+            }
+            else
+            {
+                temp.next = temp2;
+                temp2 = temp2.next;
+            }
             temp = temp.next;
         }
 
-        //Sorting the array
-
-        Arrays.sort(arr);
-
-        //Replacing the values of the given LL in sorted order
-
-        temp = head;
-        int idx = 0;
-        while(temp != null)
+        while(temp1 != null)
         {
-            int value = arr[idx];
-            temp.val = value;
-            idx++;
+            temp.next = temp1;
             temp = temp.next;
+            temp1 = temp1.next;
         }
-        return head;
+
+        while(temp2 != null)
+        {
+            temp.next = temp2;
+            temp = temp.next;
+            temp2 = temp2.next;
+        }
+        return dummy.next;
     }
 }
