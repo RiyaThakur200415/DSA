@@ -29,9 +29,11 @@ class Solution
                     break;
                 }
             }
+
             nextNode = kthNode.next;
             kthNode.next = null;
             kthNode = reverse(temp);
+
             if(temp == head)
             {
                 head = kthNode;
@@ -50,6 +52,7 @@ class Solution
     static ListNode findKthNode(ListNode head , int k)
     {
         ListNode temp = head;
+
         for(int i = 1 ; i < k && temp != null ; i++)
         {
             temp = temp.next;
@@ -63,6 +66,7 @@ class Solution
         {
             return head;
         }
+
         ListNode newHead = reverse(head.next);
         head.next.next = head;
         head.next = null;
