@@ -19,8 +19,8 @@ class Solution
 
         while(temp != null)
         {
-            kthNode = findKthNode(temp , k);
-
+            kthNode = fingKthNode(temp , k);
+            
             if(kthNode == null)
             {
                 if(prevNode != null)
@@ -32,24 +32,25 @@ class Solution
 
             nextNode = kthNode.next;
             kthNode.next = null;
-            kthNode = reverse(temp);
+
+            ListNode newHead = reverse(temp);
 
             if(temp == head)
             {
-                head = kthNode;
+                head = newHead;
             }
             else
             {
-                prevNode.next = kthNode;
+                prevNode.next = newHead;
             }
-
+        
             prevNode = temp;
             temp = nextNode;
         }
         return head;
     }
 
-    static ListNode findKthNode(ListNode head , int k)
+    static ListNode fingKthNode(ListNode head , int k)
     {
         ListNode temp = head;
 
@@ -70,7 +71,7 @@ class Solution
         ListNode newHead = reverse(head.next);
         head.next.next = head;
         head.next = null;
-
-        return newHead;
+        
+       return newHead;
     }
 }
