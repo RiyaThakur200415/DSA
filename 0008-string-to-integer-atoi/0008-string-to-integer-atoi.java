@@ -2,18 +2,16 @@ class Solution
 {
     public int myAtoi(String s) 
     {
-        long ans = 0;
         int i = 0;
-        int sign = 1;
         int n = s.length();
-        //Skip the extra front spaces
+        //Skipping empty spaces
         while(i < n && s.charAt(i) == ' ')
         {
             i++;
         }
 
-        // Finding the sign at the front
-
+        //Dealing with the sign;
+        int sign = 1;
         if(i < n && (s.charAt(i) == '-' || s.charAt(i) == '+'))
         {
             if(s.charAt(i) == '-')
@@ -21,28 +19,25 @@ class Solution
                 sign = -1;
             }
             i++;
-        }
+        } 
+       
 
-        // Next
-
+        //Dealing with the digits
+        long sum = 0;
         while(i < n && Character.isDigit(s.charAt(i)))
         {
-            int digit = s.charAt(i) - '0';
-            ans = ans * 10 + digit;
+            int num = s.charAt(i) - '0';
+            sum = sum * 10 + num;
 
-            //Checking overflow
-            if(sign * ans > Integer.MAX_VALUE)
-            {
+            if(sum * sign > Integer.MAX_VALUE)
                 return Integer.MAX_VALUE;
-            }
 
-            if(sign * ans < Integer.MIN_VALUE)
-            {
+            if(sum * sign < Integer.MIN_VALUE)
                 return Integer.MIN_VALUE;
-            }
 
             i++;
         }
-        return (int)(sign * ans);
+       
+        return (int)(sum * sign);
     }
 }
