@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RiyaThakur200415/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/RiyaThakur200415/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RiyaThakur200415/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/RiyaThakur200415/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RiyaThakur200415/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/RiyaThakur200415/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/RiyaThakur200415/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/RiyaThakur200415/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RiyaThakur200415/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/RiyaThakur200415/DSA/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/RiyaThakur200415/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/RiyaThakur200415/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/RiyaThakur200415/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/RiyaThakur200415/DSA/tree/master/0231-power-of-two) |
 ## Database
 |  |
 | ------- |
