@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/RiyaThakur200415/DSA/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/RiyaThakur200415/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/RiyaThakur200415/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RiyaThakur200415/DSA/tree/master/0268-missing-number) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RiyaThakur200415/DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/RiyaThakur200415/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RiyaThakur200415/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/RiyaThakur200415/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/RiyaThakur200415/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/RiyaThakur200415/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RiyaThakur200415/DSA/tree/master/0231-power-of-two) |
