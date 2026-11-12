@@ -2,23 +2,24 @@ class Solution
 {
     public int singleNumber(int[] nums) 
     {
-        HashMap<Integer , Integer> hm = new HashMap<>();
-        int res = 0;
+        int ans = 0;
 
-        for(int i = 0 ; i < nums.length ; i++)
+        for(int i = 0 ; i < 32 ; i++)
         {
-            hm.put(nums[i] , hm.getOrDefault(nums[i] , 0) + 1);
-        }
-
-        //Iteration in hashmap
-        for(Map.Entry<Integer , Integer> entry : hm.entrySet())
-        {
-            if(entry.getValue() == 1)
+            int cnt = 0;
+            for(int j = 0 ; j < nums.length ; j++)
             {
-                res = entry.getKey();
-                break;
+                if((nums[j] & (1 << i)) != 0)
+                {
+                    cnt++;
+                }
+            }
+
+            if(cnt % 3 != 0)
+            {
+                ans = ans | (1 << i);
             }
         }
-        return res;
+        return ans;
     }
 }
