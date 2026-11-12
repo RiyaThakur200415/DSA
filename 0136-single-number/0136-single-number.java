@@ -2,11 +2,12 @@ class Solution
 {
     public int singleNumber(int[] nums) 
     {
-        int ans = 0;
-        for(int i : nums)
+        int val = nums[0];
+        
+        for(int i = 1 ; i < nums.length ; i++)
         {
-            ans = ans ^ i;
+            val ^= nums[i];
         }
-        return ans;
+        return val;
     }
 }
