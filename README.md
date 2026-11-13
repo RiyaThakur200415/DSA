@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RiyaThakur200415/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RiyaThakur200415/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/RiyaThakur200415/DSA/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/RiyaThakur200415/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RiyaThakur200415/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RiyaThakur200415/DSA/tree/master/0229-majority-element-ii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/RiyaThakur200415/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/RiyaThakur200415/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/RiyaThakur200415/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/RiyaThakur200415/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RiyaThakur200415/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RiyaThakur200415/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/RiyaThakur200415/DSA/tree/master/0507-perfect-number) |
@@ -506,4 +508,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RiyaThakur200415/DSA/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RiyaThakur200415/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RiyaThakur200415/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RiyaThakur200415/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RiyaThakur200415/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RiyaThakur200415/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
