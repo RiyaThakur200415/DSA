@@ -1,39 +1,55 @@
-
 class Solution 
 {
     public int divide(int dividend, int divisor) 
     {
+        //Base Case 
+        // Overflow case
         if(dividend == Integer.MIN_VALUE && divisor == -1)
         {
             return Integer.MAX_VALUE;
         }
 
-        boolean sign = (dividend < 0) ^ (divisor < 0);
+        if(dividend == divisor)
+        {
+            return 1;
+        }
 
-        long number = Math.abs((long) dividend);
-        long d = Math.abs((long) divisor);
+        boolean sign = false;
 
+        if(dividend <= 0 && divisor > 0)
+        {
+            sign = true;
+        }
+        if(dividend > 0 && divisor < 0)
+        {
+            sign = true;
+        }
+
+        long n = Math.abs((long)dividend);
+        long d = Math.abs((long)divisor);
+
+        long sum = n;
         long ans = 0;
 
-        while(number >= d)
+        while(sum >= d)
         {
-            int cnt = 0;
-
-            while(number >= (d << (cnt + 1)))
+            long res = d;
+            long mul = 1;
+            while((res << 1) <= sum)
             {
-                cnt++;
+                res = res << 1;
+                mul = mul << 1;
             }
-
-            ans += (1L << cnt);
-
-            number -= (d << cnt);
+            ans += mul;
+            sum -= res;
         }
-
-        if(sign)
+        if(sign == true)
         {
-            ans = -ans;
+            return -(int)ans;
         }
-
-        return (int) ans;
+        else
+        {
+            return (int)ans;
+        }
     }
 }
