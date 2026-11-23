@@ -4,12 +4,11 @@ class Solution
     {
         List<String> res = new ArrayList<>();
 
-        res.add(words[0]);
-        char temp[] = words[0].toCharArray();
-        Arrays.sort(temp);
-        String comp = new String(temp);
+        
 
-        for(int i = 1 ; i < words.length ; i++)
+        String comp = "";
+
+        for(int i = 0 ; i < words.length ; i++)
         {
             String str = words[i];
             char ch[] = str.toCharArray();
