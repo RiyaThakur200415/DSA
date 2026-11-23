@@ -23,8 +23,7 @@ class Solution
             {
                 for(int i = top ; i <= bottom ; i++)
                 {
-                    mat[i][right] = val;
-                    val++;
+                    mat[i][right] = val++;
                 }
             }
             right--;
@@ -34,8 +33,7 @@ class Solution
             {
                 for(int i = right ; i >= left ; i--)
                 {
-                    mat[bottom][i] = val;
-                    val++;
+                    mat[bottom][i] = val++;
                 }
             }
             bottom--;
@@ -45,8 +43,7 @@ class Solution
             {
                 for(int i = bottom ; i >= top ; i--)
                 {
-                    mat[i][left] = val;
-                    val++;
+                    mat[i][left] = val++;
                 }
             }
             left++;
