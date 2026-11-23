@@ -14,8 +14,7 @@ class Solution
             //left to right
             for(int i = left  ; i <= right ; i++)
             {
-                mat[top][i] = val;
-                val++;
+                mat[top][i] = val++;
             }
             top++;
 
