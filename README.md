@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RiyaThakur200415/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/RiyaThakur200415/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RiyaThakur200415/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/RiyaThakur200415/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RiyaThakur200415/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Bit Manipulation
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RiyaThakur200415/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RiyaThakur200415/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RiyaThakur200415/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/RiyaThakur200415/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/RiyaThakur200415/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/RiyaThakur200415/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/RiyaThakur200415/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/RiyaThakur200415/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/RiyaThakur200415/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Divide and Conquer
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RiyaThakur200415/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RiyaThakur200415/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/RiyaThakur200415/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/RiyaThakur200415/DSA/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
