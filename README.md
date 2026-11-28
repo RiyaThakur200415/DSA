@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/RiyaThakur200415/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RiyaThakur200415/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/RiyaThakur200415/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/RiyaThakur200415/DSA/tree/master/1922-count-good-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RiyaThakur200415/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/RiyaThakur200415/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/RiyaThakur200415/DSA/tree/master/0231-power-of-two) |
+| [1922-count-good-numbers](https://github.com/RiyaThakur200415/DSA/tree/master/1922-count-good-numbers) |
 ## Database
 |  |
 | ------- |
